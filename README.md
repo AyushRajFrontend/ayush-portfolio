@@ -26,7 +26,7 @@ A premium personal portfolio website built with modern frontend technologies, sh
 
 ## 🛠️ Tech Stack
 
-- HTML5
+- HTML
 - CSS3
 - JavaScript
 
