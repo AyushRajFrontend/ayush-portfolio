@@ -52,7 +52,7 @@ Built entirely with **HTML, CSS, and JavaScript**, this portfolio highlights my 
 
 A futuristic galaxy-themed music visualizer built using the Web Audio API, Canvas API, WebRTC, and modern frontend technologies.
 
-![NebulaBeat Preview](images/nebulabeat-preview.png)
+![NebulaBeat Preview](images/NebulaBeat-preview.jpg)
 
 ### Features
 
@@ -78,7 +78,7 @@ https://github.com/AyushRajFrontend/NebulaBeat
 
 A cinematic futuristic hypercar showcase focused on premium UI, luxury animations, and immersive storytelling.
 
-![ApexDrive Preview](images/apexdrive-preview.png)
+![ApexDrive Preview](images/apexdrive-preview.jpg)
 
 ### Features
 
